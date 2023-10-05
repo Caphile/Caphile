@@ -1,16 +1,25 @@
-### Hi there 👋
+# Heechan Kim
 
-<!--
-**Caphile/Caphile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- HUFS CES, Undergraduate Degree
+- [Daolvision](http://www.daolvision.com/), Development and QA/QC work for a period of 8 months
+- 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/Algorithm-blue?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Backend-blue?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Network-blue?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Data Analysis-blue?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-blue?style=for-the-badge&logo=&logoColor=white">
+</p>
+
+## Contact Information
+
+[Email](mailto:caphile98@gmail.com)
+
+[GitHub](https://github.com/Caphile)
+
+[Baekjoon](https://www.acmicpc.net/user/caphile98)
+
+[Codeforces](https://codeforces.com/profile/caphile98)
