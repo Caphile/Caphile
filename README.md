@@ -1,7 +1,7 @@
 <h1>Heechan Kim</h1>
 
-<p>HUFS CES, Undergraduate Degree</p>
-<p><a href="http://www.daolvision.com/">Daolvision</a>, Development and QA/QC work for a period of 8 months</p>
+- <p>Computer Engineering Science(CES), HUFS, Graduated August 2024</p>
+- <p>R&D, [Daolvision](http://www.daolvision.com/), December 2022 -</p>
 
 <h2>Skills</h2>
 <p>
@@ -15,6 +15,10 @@
 <h2>Contact Information</h2>
 <p>
   <a href="mailto:caphile98@gmail.com">Email</a><br>
+</p>
+
+<h2>Others</h2>
+<p>
   <a href="https://github.com/Caphile">GitHub</a><br>
   <a href="https://www.acmicpc.net/user/caphile98">Baekjoon</a><br>
   <a href="https://codeforces.com/profile/caphile98">Codeforces</a>
