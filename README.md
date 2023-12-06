@@ -1,6 +1,6 @@
 <h1>Heechan Kim</h1>
 
-- <p>HUFS(CS, CpE)
+- <p>HUFS(CS)
 - <p>R&D, <a href="http://www.daolvision.com/">Daolvision</a>, December 2022 -</p>
 
 <h2>Skills</h2>
