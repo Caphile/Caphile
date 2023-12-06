@@ -1,7 +1,7 @@
 <h1>Heechan Kim</h1>
 
-- <p>HUFS(CS)
-- <p>R&D, <a href="http://www.daolvision.com/">Daolvision</a>, December 2022 -</p>
+- <p>Bachelor’s Degree in Computer Science, HUFS (2018-2024)
+- <p>R&D, <a href="http://www.daolvision.com/">Daolvision</a>, 2022.12 -</p>
 
 <h2>Skills</h2>
 <p>
