@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Algorithm-blue?style=for-the-badge&logo=&logoColor=white" alt="Algorithm">
   <img src="https://img.shields.io/badge/Backend-blue?style=for-the-badge&logo=&logoColor=white" alt="Backend">
   <img src="https://img.shields.io/badge/Network-blue?style=for-the-badge&logo=&logoColor=white" alt="Network">
-  <img src="https://img.shields.io/badge/Data Analysis-blue?style=for-the-badge&logo=&logoColor=white" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Data Engineering-blue?style=for-the-badge&logo=&logoColor=white" alt="Data Analysis">
   <img src="https://img.shields.io/badge/AI-blue?style=for-the-badge&logo=&logoColor=white" alt="AI">
 </p>
 
