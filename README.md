@@ -1,7 +1,13 @@
 <h1>Heechan Kim</h1>
 
-- <p>Bachelor’s Degree in Computer Science, HUFS (2018-2024)
-- <p>R&D, <a href="http://www.daolvision.com/">Daolvision</a>, 2022.12 -</p>
+- Bachelor’s Degree in Computer Science, HUFS (2018-2024)
+
+- R&D, <a href="http://www.daolvision.com/">Daolvision</a>, 2022.12 - 2023.03
+  
+  - Conducted QA/QC for kiosk, POS, and inventory systems
+    
+  - Participated in development of the inventory management system
+
 
 <h2>Skills</h2>
 <p>
