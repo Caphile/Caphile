@@ -19,6 +19,7 @@
 
 <h2>Others</h2>
 <p>
+  <a hreg="https://blog.caphile.kro.kr">Blog</a><br>
   <a href="https://github.com/Caphile">GitHub</a><br>
   <a href="https://www.acmicpc.net/user/caphile98">Baekjoon</a><br>
   <a href="https://codeforces.com/profile/caphile98">Codeforces</a>
