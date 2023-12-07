@@ -1,6 +1,6 @@
 <h1>Heechan Kim</h1>
 
-- Bachelor’s Degree in Computer Science, HUFS (2018.03 - 2024.08)
+- Bachelor’s Degree in Computer Science, HUFS, 2018.03 - 2024.08
 
 - R&D, <a href="http://www.daolvision.com/">Daolvision</a>, 2022.12 - 2023.03
   
